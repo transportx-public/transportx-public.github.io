@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>陈冉冉 | TransportX</title><link>https://transportxlab.com/zh/author/ranran-chen/</link><atom:link href="https://transportxlab.com/zh/author/ranran-chen/index.xml" rel="self" type="application/rss+xml"/><description>陈冉冉</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0800</lastBuildDate><image><url>https://transportxlab.com/author/ranran-chen/avatar_hu13629839256397150654.png</url><title>陈冉冉</title><link>https://transportxlab.com/zh/author/ranran-chen/</link></image><item><title>Humanitarian logistics planning for future flood risks: a data-driven stochastic framework</title><link>https://transportxlab.com/zh/publication/humanitarian-logistics-flood-risk/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/zh/publication/humanitarian-logistics-flood-risk/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究面向气候变化下不断上升的洪水风险，将未来洪水情景生成、两阶段随机优化和离散事件仿真整合到同一人道主义物流规划框架中。框架同时考虑灾前设施与库存决策、灾后调拨方案以及动态配送过程的服务质量。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>结合 2006–2024 年历史灾情、AutoML 和 CMIP6 气候投影，构造面向 2026–2055 年的未来洪水需求情景。&lt;/li>
+&lt;li>通过包含 CVaR 风险度量的两阶段随机规划，联合决定区域仓库、库存预置、配送中心启用和物资分配。&lt;/li>
+&lt;li>江汉平原案例表明，面向未来且考虑风险规避的方案能够显著减少短缺，并在仿真中提高服务达标率。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.cie.2026.112180" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/EE-fCrV-I6yrVIEmxU8_kw" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>陈冉冉</title><link>https://transportxlab.com/zh/author/ranran-chen/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/zh/author/ranran-chen/</guid><description/></item></channel></rss>
