@@ -1,41 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | TransportX</title><link>https://transportxlab.com/publication/</link><atom:link href="https://transportxlab.com/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate><image><url>https://transportxlab.com/media/icon_hu11734318148517933569.png</url><title>Publications</title><link>https://transportxlab.com/publication/</link></image><item><title>An example preprint / working paper</title><link>https://transportxlab.com/publication/preprint-2/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://transportxlab.com/publication/preprint-2/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example preprint / working paper</title><link>https://transportxlab.com/publication/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://transportxlab.com/publication/preprint/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://transportxlab.com/publication/journal-article/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://transportxlab.com/publication/journal-article/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example journal article</title><link>https://transportxlab.com/publication/journal-article2/</link><pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate><guid>https://transportxlab.com/publication/journal-article2/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://transportxlab.com/publication/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://transportxlab.com/publication/conference-paper/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Add the publication&amp;rsquo;s &lt;strong>full text&lt;/strong> or &lt;strong>supplementary notes&lt;/strong> here. You can use rich formatting such as including &lt;a href="https://docs.hugoblox.com/content/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | TransportX</title><link>https://transportxlab.com/publication/</link><atom:link href="https://transportxlab.com/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><image><url>https://transportxlab.com/media/icon_hu11734318148517933569.png</url><title>Publications</title><link>https://transportxlab.com/publication/</link></image><item><title>CityWeave: Weaving User Needs and World Constraints for Personalized and Reliable Mobility Planning</title><link>https://transportxlab.com/publication/cityweave/</link><pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/cityweave/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>CityWeave 面向真实的门到门出行规划，同时考虑用户画像、时间窗口、地图拓扑和交通方式等约束。方法将规划过程拆解为 Who、When、Where 和 How 四个结构化槽位，再通过 User-World Grounding 模块检查个性化需求与导航可行性。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>以 3W1H 结构约束多模态智能体的长链路推理和工具调用。&lt;/li>
+&lt;li>联合优化用户偏好、地点存在性、路线连通性、换乘合法性和时刻表约束。&lt;/li>
+&lt;li>在 18 万条真实出行规划记录上进行训练和评测，显著提升最终方案通过率、常识约束通过率、个性化和可靠性。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1145/3770855.3818979" target="_blank" rel="noopener">ACM 论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/4rybhLtB3IxCyckLV2na6A" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>HSGraphAgent: Knowledge-Graph-Guided Large Language Models for Harmonized System Code Classification</title><link>https://transportxlab.com/publication/hsgraphagent/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/hsgraphagent/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>HSGraphAgent 将海关 HS 编码体系建模为包含层级关系和排除规则的知识图谱，引导大语言模型从 Section、Chapter、Heading 到 Subheading 逐级完成商品归类。该方法强调规则约束与可解释推理，避免仅凭文本相似度选择编码。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>Select 阶段只在当前节点的合法子节点中选择，保证层级路径有效。&lt;/li>
+&lt;li>Redirect 阶段在触发税则排除条件时动态修正推理路径。&lt;/li>
+&lt;li>在 6 位 HS Code 细粒度任务上，图谱引导的分层推理明显优于直接生成和常规 RAG 基线。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.18653/v1/2026.acl-long.2072" target="_blank" rel="noopener">ACL Anthology DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/VoldeMordddddd/HSBench" target="_blank" rel="noopener">HSBench 代码与数据&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/RV14fJCbhqTD2RtKYkaPwQ" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Humanitarian logistics planning for future flood risks: a data-driven stochastic framework</title><link>https://transportxlab.com/publication/humanitarian-logistics-flood-risk/</link><pubDate>Wed, 17 Jun 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/humanitarian-logistics-flood-risk/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究面向气候变化下不断上升的洪水风险，将未来洪水情景生成、两阶段随机优化和离散事件仿真整合到同一人道主义物流规划框架中。框架同时考虑灾前设施与库存决策、灾后调拨方案以及动态配送过程的服务质量。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>结合 2006–2024 年历史灾情、AutoML 和 CMIP6 气候投影，构造面向 2026–2055 年的未来洪水需求情景。&lt;/li>
+&lt;li>通过包含 CVaR 风险度量的两阶段随机规划，联合决定区域仓库、库存预置、配送中心启用和物资分配。&lt;/li>
+&lt;li>江汉平原案例表明，面向未来且考虑风险规避的方案能够显著减少短缺，并在仿真中提高服务达标率。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.cie.2026.112180" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/EE-fCrV-I6yrVIEmxU8_kw" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Understanding commuters' perceived accessibility and travel intentions under rainstorm warnings in Shanghai, China</title><link>https://transportxlab.com/publication/rainstorm-perceived-accessibility/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/rainstorm-perceived-accessibility/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究以上海通勤者为对象，探讨暴雨预警如何通过预警可信度、风险感知、自我效能和感知可达性影响通勤决策。研究将保护行动决策模型扩展到城市交通场景，关注预警信息、个体心理判断与出行调整之间的作用链。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>基于 1,563 份有效问卷，构建多阶段社会心理决策模型。&lt;/li>
+&lt;li>社会经济地位较低的通勤者更容易出现较低的预警信任、自我效能和感知可达性。&lt;/li>
+&lt;li>感知可达性与继续出行意愿正相关，与更换交通方式的倾向负相关；不同通勤方式的感知可达性存在显著差异。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.tranpol.2025.03.011" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/QOcDerQdEoSqEJ0FaPBDYg" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>A spatiotemporal knowledge graph-based method for identifying individual activity locations from mobile phone data</title><link>https://transportxlab.com/publication/stkg-activity-location/</link><pubDate>Tue, 01 Apr 2025 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/stkg-activity-location/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究针对手机信令数据时间稀疏、空间定位不确定以及传统聚类方法依赖人工阈值的问题，将个体轨迹组织为时空知识图谱。方法同时推断停留点的空间邻接关系和时间相似关系，再识别紧密关联的活动地点群。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>用三元组表示个体、停留点、时间片及其关系，形成可解释的轨迹语义结构。&lt;/li>
+&lt;li>基于 Queen 邻接构建空间图，基于时间片余弦相似度构建时间图，并将两者融合。&lt;/li>
+&lt;li>使用 Louvain 社区发现自动识别活动地点，在上海案例中改善空间边界精度和日间稳定性。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.jtrangeo.2025.104157" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/3xVU8HID9ejc3gHx6BX3Lw" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Collaborative supervision of dangerous goods supply chain: A blockchain-based conceptual platform</title><link>https://transportxlab.com/publication/dangerous-goods-blockchain-supervision/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/dangerous-goods-blockchain-supervision/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究面向危险货物供应链中的多部门协同监管、数据孤岛与责任追溯问题，设计了由区块链层、存储层、接口层和交互层组成的概念平台。平台结合 FISCO BCOS、IPFS 和智能合约，支持多类数据的链上共享与监管过程追踪。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>根据数据体量与隐私需求，设计三种数据集成和链上共享模式。&lt;/li>
+&lt;li>将可追溯状态机编码为智能合约，保留监管任务流转和责任链条。&lt;/li>
+&lt;li>八节点原型实验表明，方案能够在可接受的延迟和吞吐水平下支撑数据共享与复杂监管追溯。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.cie.2024.110818" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/hV48ZnggUujB53lQOLF8vg" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

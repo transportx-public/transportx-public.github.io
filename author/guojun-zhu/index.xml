@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>guojun Zhu | TransportX</title><link>https://transportxlab.com/author/guojun-zhu/</link><atom:link href="https://transportxlab.com/author/guojun-zhu/index.xml" rel="self" type="application/rss+xml"/><description>guojun Zhu</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://transportxlab.com/author/guojun-zhu/avatar_hu135583725376783685.jpg</url><title>guojun Zhu</title><link>https://transportxlab.com/author/guojun-zhu/</link></image><item><title>guojun Zhu</title><link>https://transportxlab.com/author/guojun-zhu/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://transportxlab.com/author/guojun-zhu/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Guojun Zhu | TransportX</title><link>https://transportxlab.com/author/guojun-zhu/</link><atom:link href="https://transportxlab.com/author/guojun-zhu/index.xml" rel="self" type="application/rss+xml"/><description>Guojun Zhu</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0800</lastBuildDate><image><url>https://transportxlab.com/author/guojun-zhu/avatar_hu135583725376783685.jpg</url><title>Guojun Zhu</title><link>https://transportxlab.com/author/guojun-zhu/</link></image><item><title>Collaborative supervision of dangerous goods supply chain: A blockchain-based conceptual platform</title><link>https://transportxlab.com/publication/dangerous-goods-blockchain-supervision/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/dangerous-goods-blockchain-supervision/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>本研究面向危险货物供应链中的多部门协同监管、数据孤岛与责任追溯问题，设计了由区块链层、存储层、接口层和交互层组成的概念平台。平台结合 FISCO BCOS、IPFS 和智能合约，支持多类数据的链上共享与监管过程追踪。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>根据数据体量与隐私需求，设计三种数据集成和链上共享模式。&lt;/li>
+&lt;li>将可追溯状态机编码为智能合约，保留监管任务流转和责任链条。&lt;/li>
+&lt;li>八节点原型实验表明，方案能够在可接受的延迟和吞吐水平下支撑数据共享与复杂监管追溯。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1016/j.cie.2024.110818" target="_blank" rel="noopener">论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/hV48ZnggUujB53lQOLF8vg" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Guojun Zhu</title><link>https://transportxlab.com/author/guojun-zhu/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0800</pubDate><guid>https://transportxlab.com/author/guojun-zhu/</guid><description/></item></channel></rss>

@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yi Zhou | TransportX</title><link>https://transportxlab.com/author/yi-zhou/</link><atom:link href="https://transportxlab.com/author/yi-zhou/index.xml" rel="self" type="application/rss+xml"/><description>Yi Zhou</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://transportxlab.com/author/yi-zhou/avatar_hu17573943835462090962.jpg</url><title>Yi Zhou</title><link>https://transportxlab.com/author/yi-zhou/</link></image><item><title>Yi Zhou</title><link>https://transportxlab.com/author/yi-zhou/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://transportxlab.com/author/yi-zhou/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yi Zhou | TransportX</title><link>https://transportxlab.com/author/yi-zhou/</link><atom:link href="https://transportxlab.com/author/yi-zhou/index.xml" rel="self" type="application/rss+xml"/><description>Yi Zhou</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Aug 2026 00:00:00 +0800</lastBuildDate><image><url>https://transportxlab.com/author/yi-zhou/avatar_hu17573943835462090962.jpg</url><title>Yi Zhou</title><link>https://transportxlab.com/author/yi-zhou/</link></image><item><title>CityWeave: Weaving User Needs and World Constraints for Personalized and Reliable Mobility Planning</title><link>https://transportxlab.com/publication/cityweave/</link><pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/publication/cityweave/</guid><description>&lt;h2 id="研究概览">研究概览&lt;/h2>
+&lt;p>CityWeave 面向真实的门到门出行规划，同时考虑用户画像、时间窗口、地图拓扑和交通方式等约束。方法将规划过程拆解为 Who、When、Where 和 How 四个结构化槽位，再通过 User-World Grounding 模块检查个性化需求与导航可行性。&lt;/p>
+&lt;h2 id="核心方法与发现">核心方法与发现&lt;/h2>
+&lt;ul>
+&lt;li>以 3W1H 结构约束多模态智能体的长链路推理和工具调用。&lt;/li>
+&lt;li>联合优化用户偏好、地点存在性、路线连通性、换乘合法性和时刻表约束。&lt;/li>
+&lt;li>在 18 万条真实出行规划记录上进行训练和评测，显著提升最终方案通过率、常识约束通过率、个性化和可靠性。&lt;/li>
+&lt;/ul>
+&lt;h2 id="资料来源">资料来源&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://doi.org/10.1145/3770855.3818979" target="_blank" rel="noopener">ACM 论文 DOI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mp.weixin.qq.com/s/4rybhLtB3IxCyckLV2na6A" target="_blank" rel="noopener">TransportX Lab 公众号解读&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Yi Zhou</title><link>https://transportxlab.com/author/yi-zhou/</link><pubDate>Sat, 08 Aug 2026 00:00:00 +0800</pubDate><guid>https://transportxlab.com/author/yi-zhou/</guid><description/></item></channel></rss>
